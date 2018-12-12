@@ -1,0 +1,10 @@
+com\CHY\shoppingGo\shop\controller\UploadController.class
+com\CHY\shoppingGo\shop\controller\TypeTemplateController.class
+com\CHY\shoppingGo\shop\controller\LoginController.class
+com\CHY\shoppingGo\shop\controller\GoodsController.class
+com\CHY\shoppingGo\shop\controller\GoodsDescController.class
+com\CHY\shoppingGo\shop\controller\ItemCatController.class
+com\CHY\shoppingGo\shop\controller\SellerController.class
+com\CHY\shoppingGo\shop\controller\ItemController.class
+com\CHY\shoppingGo\shop\controller\SpecificationController.class
+com\CHY\shoppingGo\shop\service\impl\UserDetailsServiceImpl.class

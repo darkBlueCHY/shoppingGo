@@ -1,0 +1,3 @@
+com\CHY\shoppingGo\page\service\impl\RemoveHtmlListener.class
+com\CHY\shoppingGo\page\service\impl\ItemPageServiceImpl.class
+com\CHY\shoppingGo\page\service\impl\GenerateHtmlListener.class

@@ -1,0 +1,9 @@
+com\CHY\shoppingGo\sellergoods\service\ItemCatService.class
+com\CHY\shoppingGo\sellergoods\service\ItemService.class
+com\CHY\shoppingGo\sellergoods\service\SpecificationService.class
+com\CHY\shoppingGo\sellergoods\service\GoodsDescService.class
+com\CHY\shoppingGo\sellergoods\service\SpecificationOptionService.class
+com\CHY\shoppingGo\sellergoods\service\TypeTemplateService.class
+com\CHY\shoppingGo\sellergoods\service\BrandService.class
+com\CHY\shoppingGo\sellergoods\service\GoodsService.class
+com\CHY\shoppingGo\sellergoods\service\SellerService.class

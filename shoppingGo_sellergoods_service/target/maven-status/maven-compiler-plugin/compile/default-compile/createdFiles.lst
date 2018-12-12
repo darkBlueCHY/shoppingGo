@@ -1,0 +1,9 @@
+com\CHY\shoppingGo\sellergoods\service\impl\GoodsDescServiceImpl.class
+com\CHY\shoppingGo\sellergoods\service\impl\ItemServiceImpl.class
+com\CHY\shoppingGo\sellergoods\service\impl\BrandServiceImpl.class
+com\CHY\shoppingGo\sellergoods\service\impl\SpecificationOptionServiceImpl.class
+com\CHY\shoppingGo\sellergoods\service\impl\SpecificationServiceImpl.class
+com\CHY\shoppingGo\sellergoods\service\impl\GoodsServiceImpl.class
+com\CHY\shoppingGo\sellergoods\service\impl\SellerServiceImpl.class
+com\CHY\shoppingGo\sellergoods\service\impl\TypeTemplateServiceImpl.class
+com\CHY\shoppingGo\sellergoods\service\impl\ItemCatServiceImpl.class

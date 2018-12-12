@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>org.apereo.cas</groupId>
+    <artifactId>cas-server</artifactId>
+    <version>5.3.6</version>
+    <name>cas-server</name>
+
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-war-plugin</artifactId>
+                <version>3.2.2</version>
+                <configuration>
+                    <warName>cas</warName>
+                    <overlays>
+                        <overlay>
+                            <groupId>org.apereo.cas</groupId>
+                            <artifactId>cas-server-core-web</artifactId>
+                        </overlay>
+                    </overlays>
+                </configuration>
+            </plugin>
+
+            <!-- java编译插件 -->
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-compiler-plugin</artifactId>
+                <version>3.2</version>
+                <configuration>
+                    <source>11</source>
+                    <target>11</target>
+                    <encoding>UTF-8</encoding>
+                </configuration>
+            </plugin>
+        </plugins>
+        <finalName>cas</finalName>
+
+
+
+
+
+    </build>
+
+    <dependencies>
+        <dependency>
+            <groupId>org.apereo.cas</groupId>
+            <artifactId>cas-server-core-web</artifactId>
+            <version>5.3.6</version>
+            <scope>test</scope>
+        </dependency>
+    </dependencies>
+
+
+
+
+    <mailingLists>
+        <mailingList>
+            <name>cas-user</name>
+            <subscribe>https://groups.google.com/a/apereo.org/forum/#!forum/cas-user</subscribe>
+            <unsubscribe>https://groups.google.com/a/apereo.org/forum/#!forum/cas-user</unsubscribe>
+            <post>cas-user@apereo.org</post>
+            <archive>https://groups.google.com/forum/#!forum/jasig-cas-user</archive>
+        </mailingList>
+        <mailingList>
+            <name>cas-dev</name>
+            <subscribe>https://groups.google.com/a/apereo.org/forum/#!forum/cas-dev</subscribe>
+            <unsubscribe>https://groups.google.com/a/apereo.org/forum/#!forum/cas-dev</unsubscribe>
+            <post>cas-dev@apereo.org</post>
+            <archive>https://groups.google.com/forum/#!forum/jasig-cas-dev</archive>
+        </mailingList>
+        <mailingList>
+            <name>cas-announce</name>
+            <subscribe>https://groups.google.com/a/apereo.org/forum/#!forum/cas-announce</subscribe>
+            <unsubscribe>https://groups.google.com/a/apereo.org/forum/#!forum/cas-announce</unsubscribe>
+            <post>cas-announce@apereo.org</post>
+            <archive>https://groups.google.com/a/apereo.org/forum/#!forum/cas-announce</archive>
+        </mailingList>
+    </mailingLists>
+    <scm>
+        <connection>scm:git@github.com:apereo/cas.git</connection>
+        <developerConnection>scm:git@github.com:apereo/cas.git</developerConnection>
+        <url>scm:git@github.com:apereo/cas.git</url>
+    </scm>
+    <issueManagement>
+        <system>GithHub</system>
+        <url>https://github.com/apereo/cas/issues</url>
+    </issueManagement>
+    <repositories>
+        <repository>
+            <releases>
+                <enabled>true</enabled>
+            </releases>
+            <id>jcenter</id>
+            <url>https://jcenter.bintray.com</url>
+        </repository>
+        <repository>
+            <releases>
+                <enabled>true</enabled>
+            </releases>
+            <id>shib-release</id>
+            <url>https://build.shibboleth.net/nexus/content/repositories/releases</url>
+        </repository>
+        <repository>
+            <releases>
+                <enabled>true</enabled>
+            </releases>
+            <id>jitpack</id>
+            <url>https://jitpack.io</url>
+        </repository>
+        <repository>
+            <releases>
+                <enabled>true</enabled>
+            </releases>
+            <id>spring-plugins</id>
+            <url>https://repo.spring.io/plugins-release/</url>
+        </repository>
+        <repository>
+            <releases>
+                <enabled>true</enabled>
+            </releases>
+            <id>couchbase</id>
+            <url>https://files.couchbase.com/maven2/</url>
+        </repository>
+        <repository>
+            <releases>
+                <enabled>true</enabled>
+            </releases>
+            <id>uniconiam</id>
+            <url>https://dl.bintray.com/uniconiam/maven</url>
+        </repository>
+    </repositories>
+</project>

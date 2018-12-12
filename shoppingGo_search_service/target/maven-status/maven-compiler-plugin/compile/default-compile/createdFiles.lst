@@ -1,0 +1,4 @@
+com\CHY\shoppingGo\po\Item.class
+com\CHY\shoppingGo\search\service\impl\RemoveDataListener.class
+com\CHY\shoppingGo\search\service\impl\ItemSearchServiceImpl.class
+com\CHY\shoppingGo\search\service\impl\ImportDataListener.class

@@ -1,0 +1,1502 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1255d58b-5102-4fbe-9ad7-bb4cd5140984" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/shoppingGo_common/target/" />
+    <ignored path="$PROJECT_DIR$/shoppingGo_pojo/target/" />
+    <ignored path="$PROJECT_DIR$/shoppingGo_dao/target/" />
+    <ignored path="$PROJECT_DIR$/shoppingGo_interface/target/" />
+    <ignored path="$PROJECT_DIR$/shoppingGo_sellergoods_service/target/" />
+    <ignored path="$PROJECT_DIR$/shoppingGo_sellergoods_interface/target/" />
+    <ignored path="$PROJECT_DIR$/shoppingGo_manager_web/target/" />
+    <ignored path="$PROJECT_DIR$/shoppingGo_shop_web/target/" />
+    <ignored path="$PROJECT_DIR$/springSecurity/target/" />
+    <ignored path="$PROJECT_DIR$/demo/target/" />
+    <ignored path="$PROJECT_DIR$/shoppingGo_content_interface/target/" />
+    <ignored path="$PROJECT_DIR$/shoppingGo_content_service/target/" />
+    <ignored path="$PROJECT_DIR$/shoppingGp_portal_web/target/" />
+    <ignored path="$PROJECT_DIR$/shoppingGo_portal_web/target/" />
+    <ignored path="$PROJECT_DIR$/shoppingGo_search_interface/target/" />
+    <ignored path="$PROJECT_DIR$/shoppingGo_search_service/target/" />
+    <ignored path="$PROJECT_DIR$/shoppingGo_search_web/target/" />
+    <ignored path="$PROJECT_DIR$/shoppingGo_solr_util/target/" />
+    <ignored path="$PROJECT_DIR$/shoppingGo_common/shoppingGo_page_service/target/" />
+    <ignored path="$PROJECT_DIR$/shoppingGo_page_service/target/" />
+    <ignored path="$PROJECT_DIR$/shoppingGo_page_interface/target/" />
+    <ignored path="$PROJECT_DIR$/shoppingGo_page_web/target/" />
+    <ignored path="$PROJECT_DIR$/shoppingGo_message/target/" />
+    <ignored path="$PROJECT_DIR$/shoppingGo_sms/target/" />
+    <ignored path="$PROJECT_DIR$/shoppingGo_user_interface/target/" />
+    <ignored path="$PROJECT_DIR$/shoppingGo_user_service/target/" />
+    <ignored path="$PROJECT_DIR$/shoppingGo_user_web/target/" />
+    <ignored path="$PROJECT_DIR$/shoppingGo_cas/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="192.168.25.6" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="192.168.25.6" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="192.168.25.6" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="shoppingGo: schema" type="c314c289:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1559662774">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="35" />
+          <entry key="project.open.time.118" value="1" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.154" value="1" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.20" value="1" />
+          <entry key="project.open.time.211" value="1" />
+          <entry key="project.open.time.22" value="1" />
+          <entry key="project.open.time.238" value="1" />
+          <entry key="project.open.time.24" value="2" />
+          <entry key="project.open.time.25" value="2" />
+          <entry key="project.open.time.28" value="3" />
+          <entry key="project.open.time.29" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.34" value="2" />
+          <entry key="project.open.time.39" value="1" />
+          <entry key="project.open.time.4" value="2" />
+          <entry key="project.open.time.40" value="1" />
+          <entry key="project.open.time.42" value="1" />
+          <entry key="project.open.time.45" value="1" />
+          <entry key="project.open.time.47" value="1" />
+          <entry key="project.open.time.5" value="2" />
+          <entry key="project.open.time.50" value="1" />
+          <entry key="project.open.time.54" value="1" />
+          <entry key="project.open.time.57" value="1" />
+          <entry key="project.open.time.6" value="2" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.8" value="2" />
+          <entry key="project.open.time.94" value="1" />
+          <entry key="project.opened" value="37" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="71" />
+          <entry key="conf" value="5" />
+          <entry key="css" value="3" />
+          <entry key="dtd" value="1" />
+          <entry key="ftl" value="3" />
+          <entry key="html" value="102" />
+          <entry key="ico" value="1" />
+          <entry key="java" value="812" />
+          <entry key="js" value="215" />
+          <entry key="jsp" value="3" />
+          <entry key="pom" value="2" />
+          <entry key="properties" value="58" />
+          <entry key="rnc" value="1" />
+          <entry key="sql" value="2" />
+          <entry key="tb_address" value="1" />
+          <entry key="xml" value="504" />
+          <entry key="xsd" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="71" />
+          <entry key="CSS" value="3" />
+          <entry key="DTD" value="1" />
+          <entry key="Database Element" value="1" />
+          <entry key="FTL" value="3" />
+          <entry key="HTML" value="102" />
+          <entry key="Image" value="1" />
+          <entry key="JAVA" value="812" />
+          <entry key="JSP" value="3" />
+          <entry key="JavaScript" value="215" />
+          <entry key="PLAIN_TEXT" value="5" />
+          <entry key="Properties" value="58" />
+          <entry key="RNG Compact" value="1" />
+          <entry key="Scratch" value="2" />
+          <entry key="XML" value="510" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="1" />
+          <entry key="ft" value="2" />
+          <entry key="ftl" value="1432" />
+          <entry key="html" value="11288" />
+          <entry key="java" value="32324" />
+          <entry key="js" value="15821" />
+          <entry key="properties" value="154" />
+          <entry key="txt" value="64" />
+          <entry key="xml" value="5308" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="FTL" value="1432" />
+          <entry key="HTML" value="11288" />
+          <entry key="JAVA" value="32324" />
+          <entry key="JavaScript" value="15821" />
+          <entry key="PLAIN_TEXT" value="65" />
+          <entry key="Properties" value="154" />
+          <entry key="SQL" value="27" />
+          <entry key="VTL" value="2" />
+          <entry key="XML" value="5281" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="shoppingGo" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/shoppingGo_page_service/src/main/java/com/CHY/shoppingGo/page/service/impl/GenerateHtmlListener.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/shoppingGo_cas/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="93">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4">
+              <caret line="294" column="4" selection-start-line="294" selection-start-column="4" selection-end-line="308" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/shoppingGo_cas/src/main/java/demo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+              <folding>
+                <element signature="e#114#115#0" expanded="true" />
+                <element signature="e#138#139#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/shoppingGo_page_service/src/main/java/com/CHY/shoppingGo/page/service/impl/ItemPageServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="27" column="27" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="HTML File" />
+        <option value="spring-beans.schema" />
+        <option value="JavaScript File" />
+        <option value="Interface" />
+        <option value="JUnit4 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>selectedSKU.title</find>
+      <find>selected</find>
+      <find>&amp;</find>
+      <find>h4</find>
+      <find>item.html</find>
+      <find>加入购物车</find>
+      <find>active</find>
+      <find>goodsService.update</find>
+      <find>updateSelection</find>
+      <find>update</find>
+      <find>search</find>
+      <find>findPage</find>
+      <find>remove</find>
+      <find>toJSONString</find>
+      <find>itemSearchImportData</find>
+      <find>itemPageRemoveHtml</find>
+      <find>请输入你的用户名</find>
+      <find>save</find>
+      <find>userService</find>
+      <find>base</find>
+      <find>jms</find>
+      <find>registery</find>
+      <find>common</find>
+      <find>alert</find>
+      <find>public void sendShortMessage(String phoneNumber);</find>
+      <find>add</find>
+      <find>checkEntity</find>
+      <find>完成注册</find>
+      <find>registry</find>
+      <find>package</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/shoppingGo_page_service/src/main/webapp/WEB-INF/ftl/item.ftl" />
+        <option value="$PROJECT_DIR$/shoppingGo_search_service/src/main/java/com/CHY/shoppingGo/search/service/impl/ItemSearchServiceImpl.java" />
+        <option value="$PROJECT_DIR$/shoppingGo_content_service/src/main/resources/spring/applicationContext-service.xml" />
+        <option value="$PROJECT_DIR$/shoppingGo_portal_web/src/main/resources/spring/applicationContext-mvc.xml" />
+        <option value="$PROJECT_DIR$/shoppingGo_search_web/src/main/resources/spring/applicationContext-mvc.xml" />
+        <option value="$PROJECT_DIR$/shoppingGo_sellergoods_service/src/main/resources/spring/applicationContext-service.xml" />
+        <option value="$PROJECT_DIR$/shoppingGo_shop_web/src/main/resources/spring/applicationContext-mvc.xml" />
+        <option value="$PROJECT_DIR$/shoppingGo_manager_web/src/main/webapp/js/controller/goodsController.js" />
+        <option value="$PROJECT_DIR$/shoppingGo_search_service/pom.xml" />
+        <option value="$PROJECT_DIR$/shoppingGo_search_service/src/main/resources/spring/applicationContext-service.xml" />
+        <option value="$PROJECT_DIR$/shoppingGo_search_service/src/main/java/com/CHY/shoppingGo/search/service/impl/RemoveDataListener.java" />
+        <option value="$PROJECT_DIR$/shoppingGo_search_service/src/main/java/com/CHY/shoppingGo/search/service/impl/ImportDataListener.java" />
+        <option value="$PROJECT_DIR$/shoppingGo_manager_web/pom.xml" />
+        <option value="$PROJECT_DIR$/shoppingGo_page_interface/src/main/java/com/CHY/shoppingGo/page/service/ItemPageService.java" />
+        <option value="$PROJECT_DIR$/shoppingGo_manager_web/src/main/resources/spring/springmvc.xml" />
+        <option value="$PROJECT_DIR$/shoppingGo_page_service/pom.xml" />
+        <option value="$PROJECT_DIR$/shoppingGo_page_service/src/main/java/com/CHY/shoppingGo/page/service/impl/GenerateHtmlListener.java" />
+        <option value="$PROJECT_DIR$/shoppingGo_page_service/src/main/java/com/CHY/shoppingGo/page/service/impl/RemoveHtmlListener.java" />
+        <option value="$PROJECT_DIR$/shoppingGo_page_service/src/main/resources/spring/applicationContext-service.xml" />
+        <option value="$PROJECT_DIR$/shoppingGo_page_service/src/main/resources/properties/page.properties" />
+        <option value="$PROJECT_DIR$/shoppingGo_manager_web/src/main/java/com/CHY/shoppingGo/manager/controller/GoodsController.java" />
+        <option value="$PROJECT_DIR$/shoppingGo_message/pom.xml" />
+        <option value="$PROJECT_DIR$/shoppingGo_message/src/main/java/com/CHY/shoppingGo/component/MessageDemo.java" />
+        <option value="$PROJECT_DIR$/shoppingGo_sms/src/main/java/com/CHY/shoppingGo/component/MessageDemo.java" />
+        <option value="$PROJECT_DIR$/shoppingGo_sms/src/main/java/com/CHY/shoppingGo/component/sms/Application.java" />
+        <option value="$PROJECT_DIR$/shoppingGo_sms/src/main/java/com/CHY/shoppingGo/component/sms/SendMessageListner.java" />
+        <option value="$PROJECT_DIR$/shoppingGo_sms/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/shoppingGo_user_interface/pom.xml" />
+        <option value="$PROJECT_DIR$/shoppingGo_user_service/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/shoppingGo_user_web/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/shoppingGo_user_service/src/main/java/com/CHY/shoppingGo/user/service/impl/UserService.java" />
+        <option value="$PROJECT_DIR$/shoppingGo_common/src/main/java/com/CHY/utils/PhoneFormatCheckUtils.java" />
+        <option value="$PROJECT_DIR$/shoppingGo_user_web/src/main/reousrces/spring/applicationContext-mvc.xml" />
+        <option value="$PROJECT_DIR$/shoppingGo_user_web/pom.xml" />
+        <option value="$PROJECT_DIR$/shoppingGo_sms/pom.xml" />
+        <option value="$PROJECT_DIR$/shoppingGo_sms/src/test/java/test.java" />
+        <option value="$PROJECT_DIR$/shoppingGo_user_service/pom.xml" />
+        <option value="$PROJECT_DIR$/shoppingGo_user_web/src/main/webapp/js/service/userService.js" />
+        <option value="$PROJECT_DIR$/shoppingGo_user_interface/src/main/java/com/CHY/shoppingGo/user/service/UserService.java" />
+        <option value="$PROJECT_DIR$/shoppingGo_sms/src/main/java/com/CHY/shoppingGo/component/sms/SendMessageListener.java" />
+        <option value="$PROJECT_DIR$/shoppingGo_user_web/src/main/webapp/js/controller/userController.js" />
+        <option value="$PROJECT_DIR$/shoppingGo_user_web/src/main/webapp/register.html" />
+        <option value="$PROJECT_DIR$/shoppingGo_user_web/src/main/resources/spring/applicationContext-mvc.xml" />
+        <option value="$PROJECT_DIR$/shoppingGo_user_service/src/main/resources/spring/applicationContext-service.xml" />
+        <option value="$PROJECT_DIR$/shoppingGo_user_service/src/main/java/com/CHY/shoppingGo/user/service/impl/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/shoppingGo_user_web/src/main/java/com/CHY/shoppingGo/user/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/shoppingGo_solr_util/src/main/java/com/CHY/shoppingGo/util/SolrUtil.java" />
+        <option value="$PROJECT_DIR$/shoppingGo_page_service/src/main/java/com/CHY/shoppingGo/page/service/impl/ItemPageServiceImpl.java" />
+        <option value="$PROJECT_DIR$/shoppingGo_cas/pom.xml" />
+        <option value="$PROJECT_DIR$/shoppingGo_cas/src/main/java/demo.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="H:\apache-maven-3.5.4\localrepository" />
+        <option name="mavenHome" value="H:/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="H:\apache-maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="shoppingGo_sms" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="shoppingGo_sms" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/shoppingGo_manager_web/src/main/webapp/plugins/select2/package.json" />
+      <path value="$PROJECT_DIR$/shoppingGo_shop_web/src/main/webapp/plugins/select2/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1" />
+    <option name="y" value="1" />
+    <option name="width" value="1364" />
+    <option name="height" value="726" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>ECMAScript 6 migration aidsJavaScript</id>
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>Kotlin</id>
+          </State>
+          <State>
+            <id>Plugin DevKit</id>
+          </State>
+          <State>
+            <id>Redundant constructsKotlin</id>
+          </State>
+          <State>
+            <id>Style issuesKotlin</id>
+          </State>
+          <State>
+            <id>XPath</id>
+          </State>
+          <State>
+            <id>XSLT</id>
+          </State>
+        </expanded-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="shoppingGo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shoppingGo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shoppingGo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shoppingGo" type="462c0819:PsiDirectoryNode" />
+              <item name="shoppingGo_cas" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shoppingGo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shoppingGo" type="462c0819:PsiDirectoryNode" />
+              <item name="shoppingGo_cas" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shoppingGo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shoppingGo" type="462c0819:PsiDirectoryNode" />
+              <item name="shoppingGo_cas" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544440451516" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="database.console.LAST_STATE" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15527344" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.CHY.shoppingGo.page.service.impl" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="H:\MyProject\shoppingGo\shoppingGo_page_service\src\main\webapp\WEB-INF" />
+      <recent name="H:\MyProject\shoppingGo\shoppingGo_page_service\src\main\resources" />
+      <recent name="H:\MyProject\shoppingGo" />
+      <recent name="H:\MyProject\shoppingGo\shoppingGo_search_web\src\main\webapp\WEB-INF" />
+      <recent name="H:\MyProject\shoppingGo\shoppingGo_solr_util\src\main\resources\spring\spring\spring" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.CHY.shoppingGo.mapper" />
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.CHY.shoppingGo.po" />
+      <recent name="com.CHY.shoppingGo.controller" />
+      <recent name="com.CHY.shoppingGo.shop.controller" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="H:\MyProject\shoppingGo\shoppingGo_common\src\main\java\com\CHY\utils" />
+      <recent name="H:\MyProject\shoppingGo\shoppingGo_user_web\src\main\webapp\js\controller" />
+      <recent name="H:\MyProject\shoppingGo\shoppingGo_user_web\src\main\java\com\CHY\shoppingGo\user\controller" />
+      <recent name="H:\MyProject\shoppingGo\shoppingGo_user_interface\src\main\java\com\CHY\shoppingGo\user\service" />
+      <recent name="H:\MyProject\shoppingGo\shoppingGo_user_web\src\main\webapp\js" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Maven.user_web:9011">
+    <configuration name="MessageDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.CHY.shoppingGo.component.MessageDemo" />
+      <module name="shoppingGo_sms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.CHY.shoppingGo.component.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SolrUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.CHY.shoppingGo.util.SolrUtil" />
+      <module name="shoppingGo_solr_util" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.CHY.shoppingGo.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sms:9009" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.CHY.shoppingGo.component.sms.Application" />
+      <module name="shoppingGo_sms" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/shoppingGo_sms" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ItemPageServiceImplTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="shoppingGo_page_service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.CHY.shoppingGo.page.service.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.CHY.shoppingGo.page.service.impl" />
+      <option name="MAIN_CLASS_NAME" value="com.CHY.shoppingGo.page.service.impl.ItemPageServiceImplTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="shoppingGo_sms" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="test" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="shoppingGo_pojo" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="shoppingGo_pojo" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="content_service" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/shoppingGo_content_service" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="manager_web:9000" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/shoppingGo_manager_web" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="page_service" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/shoppingGo_page_service" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="page_web:9008" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/shoppingGo_page_web" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="portal_web" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/shoppingGo_portal_web" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="search_service" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/shoppingGo_search_service" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="search_web:9006" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/shoppingGo_search_web" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="sellergoods_service" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/shoppingGo_sellergoods_service" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="shop_web" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/shoppingGo_shop_web" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="user_service" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/shoppingGo_user_service" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="user_web:9011" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/shoppingGo_user_web" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="shoppingGo_sms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.CHY.shoppingGo.component.sms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.CHY.shoppingGo.component.sms.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.sms:9009" />
+      <item itemvalue="Maven.user_service" />
+      <item itemvalue="Maven.user_web:9011" />
+      <item itemvalue="Maven.page_service" />
+      <item itemvalue="Maven.search_service" />
+      <item itemvalue="Maven.search_web:9006" />
+      <item itemvalue="Maven.page_web:9008" />
+      <item itemvalue="Maven.sellergoods_service" />
+      <item itemvalue="Maven.shop_web" />
+      <item itemvalue="Maven.portal_web" />
+      <item itemvalue="Maven.content_service" />
+      <item itemvalue="Maven.manager_web:9000" />
+      <item itemvalue="Application.SolrUtil" />
+      <item itemvalue="Application.MessageDemo" />
+      <item itemvalue="JUnit.ItemPageServiceImplTest.test" />
+      <item itemvalue="JUnit.test.test" />
+      <item itemvalue="Spring Boot.Application" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.test.test" />
+        <item itemvalue="Spring Boot.Application" />
+        <item itemvalue="Application.MessageDemo" />
+        <item itemvalue="Application.SolrUtil" />
+        <item itemvalue="JUnit.ItemPageServiceImplTest.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1255d58b-5102-4fbe-9ad7-bb4cd5140984" name="Default Changelist" comment="" />
+      <created>1542351371181</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1542351371181</updated>
+      <workItem from="1542351375935" duration="14412000" />
+      <workItem from="1542414301248" duration="15095000" />
+      <workItem from="1542437048032" duration="21227000" />
+      <workItem from="1542501948148" duration="33067000" />
+      <workItem from="1542590070367" duration="5760000" />
+      <workItem from="1542616542369" duration="545000" />
+      <workItem from="1542629061296" duration="11518000" />
+      <workItem from="1542673769700" duration="42720000" />
+      <workItem from="1542759951393" duration="25171000" />
+      <workItem from="1542803420745" duration="11642000" />
+      <workItem from="1542846563648" duration="42977000" />
+      <workItem from="1542935143561" duration="16348000" />
+      <workItem from="1542954533303" duration="27224000" />
+      <workItem from="1543021344381" duration="33978000" />
+      <workItem from="1543106097184" duration="15579000" />
+      <workItem from="1543217994623" duration="27296000" />
+      <workItem from="1543282112138" duration="43498000" />
+      <workItem from="1543366498141" duration="9377000" />
+      <workItem from="1543378620540" duration="1069000" />
+      <workItem from="1543552960101" duration="2681000" />
+      <workItem from="1543564813775" duration="18983000" />
+      <workItem from="1543624474485" duration="40611000" />
+      <workItem from="1543711215258" duration="49052000" />
+      <workItem from="1543800538056" duration="20580000" />
+      <workItem from="1543825054287" duration="7881000" />
+      <workItem from="1543885228540" duration="6018000" />
+      <workItem from="1543891398691" duration="29242000" />
+      <workItem from="1544062239475" duration="11940000" />
+      <workItem from="1544088795219" duration="940000" />
+      <workItem from="1544171990296" duration="13859000" />
+      <workItem from="1544195945623" duration="1954000" />
+      <workItem from="1544199844887" duration="48000" />
+      <workItem from="1544238191029" duration="26082000" />
+      <workItem from="1544291198606" duration="555000" />
+      <workItem from="1544293025234" duration="491000" />
+      <workItem from="1544424229517" duration="3778000" />
+      <workItem from="1544436181456" duration="2766000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="ItemPageServiceImplTest_test - 2018.12.04 at 11h 33m 01s.xml">
+      <configuration name="ItemPageServiceImplTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ItemPageServiceImplTest_test - 2018.12.04 at 11h 33m 18s.xml">
+      <configuration name="ItemPageServiceImplTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ItemPageServiceImplTest_setDIRPATH - 2018.12.04 at 11h 33m 39s.xml">
+      <configuration name="ItemPageServiceImplTest.setDIRPATH" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ItemPageServiceImplTest_test - 2018.12.04 at 11h 34m 20s.xml">
+      <configuration name="ItemPageServiceImplTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ItemPageServiceImplTest_test - 2018.12.04 at 11h 34m 44s.xml">
+      <configuration name="ItemPageServiceImplTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ItemPageServiceImplTest_setDIRPATH - 2018.12.04 at 11h 35m 25s.xml">
+      <configuration name="ItemPageServiceImplTest.setDIRPATH" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ItemPageServiceImplTest_test - 2018.12.04 at 11h 35m 49s.xml">
+      <configuration name="ItemPageServiceImplTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="test_test - 2018.12.08 at 17h 49m 27s.xml">
+      <configuration name="test.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="test_test - 2018.12.08 at 17h 50m 05s.xml">
+      <configuration name="test.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="test_test - 2018.12.08 at 17h 50m 32s.xml">
+      <configuration name="test.test" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="635964000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1" y="1" width="1364" height="726" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.54698795" visible="true" weight="0.22162576" />
+      <window_info id="Structure" order="1" sideWeight="0.3929961" side_tool="true" weight="0.14674735" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" sideWeight="0.45301205" side_tool="true" weight="0.17473525" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Web" order="7" sideWeight="0.22052401" side_tool="true" weight="0.20877458" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.5400982" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.5340393" weight="0.030354131" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.57166946" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3289689" />
+      <window_info anchor="bottom" id="Spring" order="7" weight="0.3289689" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49924356" weight="0.3288364" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50075644" side_tool="true" weight="0.84124386" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.60370994" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" weight="0.6290051" />
+      <window_info anchor="bottom" id="Database Console" order="14" visible="true" weight="0.02618658" />
+      <window_info anchor="right" id="Bean Validation" order="0" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Maven Projects" order="6" weight="0.30181542" />
+      <window_info anchor="right" id="Database" order="7" weight="0.30711043" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/shoppingGo_page_service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2000">
+          <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shoppingGo_user_service/src/main/resources/spring/applicationContext-tx.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-173" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shoppingGo_search_web/src/main/resources/config/application.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shoppingGo_search_web/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shoppingGo_user_service/src/main/java/com/CHY/shoppingGo/user/service/impl/UserService.java" />
+    <entry file="file://$PROJECT_DIR$/shoppingGo_common/src/main/java/com/CHY/utils/PhoneFormatCheckUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="27" column="37" selection-start-line="27" selection-start-column="37" selection-end-line="27" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shoppingGo_user_web/src/main/webapp/plugins/angularjs/angular.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="195" column="347" selection-start-line="195" selection-start-column="347" selection-end-line="195" selection-end-column="347" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shoppingGo_user_web/src/main/webapp/js/controller/baseController.js" />
+    <entry file="file://$PROJECT_DIR$/shoppingGo_user_web/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shoppingGo_user_service/target/classes/spring/applicationContext-service.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-241" />
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.3.RELEASE/spring-web-5.1.3.RELEASE.jar!/org/springframework/web/bind/annotation/RestController.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shoppingGo_user_web/src/main/resources/config/application.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shoppingGo_user_web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="35" column="21" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shoppingGo_user_web/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="27" column="49" selection-start-line="27" selection-start-column="49" selection-end-line="27" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/geronimo/specs/geronimo-jms_1.1_spec/1.1.1/geronimo-jms_1.1_spec-1.1.1.jar!/javax/jms/Session.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-25">
+          <caret line="17" column="15" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shoppingGo_sms/src/test/java/test.java" />
+    <entry file="file://$PROJECT_DIR$/shoppingGo_common/src/main/resources/properties/redis-config.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="23" lean-forward="true" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shoppingGo_common/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="29" column="21" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/2.1.2.RELEASE/spring-data-redis-2.1.2.RELEASE.jar!/org/springframework/data/redis/core/RedisTemplate.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="45" column="13" selection-start-line="45" selection-start-column="13" selection-end-line="45" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shoppingGo_sms/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="27" column="29" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shoppingGo_user_service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="109" column="41" selection-start-line="109" selection-start-column="41" selection-end-line="109" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shoppingGo_sms/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shoppingGo_user_interface/src/main/java/com/CHY/shoppingGo/user/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="30" column="49" selection-start-line="30" selection-start-column="49" selection-end-line="30" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shoppingGo_user_web/src/main/webapp/js/controller/userController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shoppingGo_user_service/src/main/resources/spring/applicationContext-service.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="700">
+          <caret line="28" column="11" selection-start-line="28" selection-start-column="11" selection-end-line="28" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shoppingGo_user_web/src/main/resources/spring/applicationContext-mvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="700">
+          <caret line="28" column="51" selection-start-line="28" selection-start-column="39" selection-end-line="28" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shoppingGo_user_web/src/main/webapp/register.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1325">
+          <caret line="53" column="61" selection-start-line="53" selection-start-column="61" selection-end-line="53" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shoppingGo_common/src/main/resources/spring/applicationContext-redis.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="700">
+          <caret line="28" column="77" selection-start-line="28" selection-start-column="77" selection-end-line="28" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shoppingGo_user_web/src/main/webapp/js/service/userService.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="443">
+          <caret line="22" column="39" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shoppingGo_sms/src/main/java/com/CHY/shoppingGo/component/sms/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shoppingGo_user_web/src/main/java/com/CHY/shoppingGo/user/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="53" selection-start-line="12" selection-start-column="53" selection-end-line="12" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shoppingGo_user_service/src/main/java/com/CHY/shoppingGo/user/service/impl/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3082">
+          <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shoppingGo_solr_util/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://D:/Java/jdk_11/lib/src.zip!/java.base/java/util/stream/Stream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3269">
+          <caret line="166" column="17" selection-start-line="166" selection-start-column="17" selection-end-line="166" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk_11/lib/src.zip!/java.base/java/util/Collections.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="4422" column="29" selection-start-line="4422" selection-start-column="29" selection-end-line="4422" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shoppingGo_solr_util/src/main/java/com/CHY/shoppingGo/util/SolrUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="72" column="5" lean-forward="true" selection-start-line="72" selection-start-column="5" selection-end-line="72" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shoppingGo_sms/src/main/java/com/CHY/shoppingGo/component/sms/SendMessageListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="643">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk_11/lib/src.zip!/java.base/java/util/Optional.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="337" column="14" selection-start-line="337" selection-start-column="14" selection-end-line="337" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shoppingGo_shop_web/src/main/java/com/CHY/shoppingGo/shop/service/impl/UserDetailsServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shoppingGo_shop_web/src/main/java/com/CHY/shoppingGo/shop/controller/UploadController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shoppingGo_shop_web/src/main/java/com/CHY/shoppingGo/shop/controller/TypeTemplateController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1461">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shoppingGo_shop_web/src/main/java/com/CHY/shoppingGo/shop/controller/GoodsDescController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-711">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shoppingGo_sellergoods_service/src/main/java/com/CHY/shoppingGo/sellergoods/service/impl/ItemCatServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1857">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shoppingGo_sellergoods_service/src/main/java/com/CHY/shoppingGo/sellergoods/service/impl/GoodsServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shoppingGo_sellergoods_service/src/main/java/com/CHY/shoppingGo/sellergoods/service/impl/GoodsDescServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1707">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shoppingGo_sellergoods_service/src/main/java/com/CHY/shoppingGo/sellergoods/service/impl/BrandServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-907">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shoppingGo_page_service/src/main/java/com/CHY/shoppingGo/page/service/impl/GenerateHtmlListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shoppingGo_page_service/src/main/java/com/CHY/shoppingGo/page/service/impl/ItemPageServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="27" column="27" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4">
+          <caret line="294" column="4" selection-start-line="294" selection-start-column="4" selection-end-line="308" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shoppingGo_cas/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shoppingGo_cas/src/main/java/demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+          <folding>
+            <element signature="e#114#115#0" expanded="true" />
+            <element signature="e#138#139#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>shoppingGo_manager_web:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>JDK11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>shoppingGo_cas</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>JDK11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.github.magese:ik-analyzer:7.5.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/shoppingGo_cas" />
+    <file type="web" url="file://$PROJECT_DIR$/shoppingGo_content_service" />
+    <file type="web" url="file://$PROJECT_DIR$/shoppingGo_manager_web" />
+    <file type="web" url="file://$PROJECT_DIR$/shoppingGo_page_service" />
+    <file type="web" url="file://$PROJECT_DIR$/shoppingGo_page_web" />
+    <file type="web" url="file://$PROJECT_DIR$/shoppingGo_portal_web" />
+    <file type="web" url="file://$PROJECT_DIR$/shoppingGo_search_service" />
+    <file type="web" url="file://$PROJECT_DIR$/shoppingGo_search_web" />
+    <file type="web" url="file://$PROJECT_DIR$/shoppingGo_sellergoods_service" />
+    <file type="web" url="file://$PROJECT_DIR$/shoppingGo_shop_web" />
+    <file type="web" url="file://$PROJECT_DIR$/shoppingGo_user_service" />
+    <file type="web" url="file://$PROJECT_DIR$/shoppingGo_user_web" />
+    <file type="web" url="file://$PROJECT_DIR$/springSecurity" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/shoppingGo_pojo/pom.xml" />
+        <option value="$PROJECT_DIR$/shoppingGo_page_service/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="JDK11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
